@@ -2,5 +2,4 @@
 JavaFX GUI
 
 
-https://user-images.githubusercontent.com/108948948/204319808-78774a73-c068-41db-8051-5b8be3abcbea.mp4
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/108948948/204320390-5f52a6fd-bd05-4625-a405-c925b131401d.gif)
